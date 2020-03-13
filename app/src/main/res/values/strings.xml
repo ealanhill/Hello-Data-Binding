@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello Data Binding</string>
+    <string name="hello_user">Hello %1$s!</string>
+    <string name="name_request">What is your name?</string>
+    <string name="submit">Submit</string>
+</resources>
